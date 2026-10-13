@@ -1,0 +1,7 @@
+worlds/one_drone.sdf
+build/
+install/
+log/
+__pycache__/
+*.pyc
+
